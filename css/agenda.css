@@ -1,0 +1,30 @@
+header{
+    display: flex;
+    justify-content: center;
+    height: 93px;
+    width: 100%;
+}
+
+.box-header{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box-header ion-icon{
+    font-size: 1.5rem;
+}
+.container-agenda{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.box{
+    width: 80%;
+    margin-inline: auto;
+}
+iframe{
+    width: 100%;
+    height: 82vh;
+}
